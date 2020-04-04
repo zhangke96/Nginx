@@ -23,7 +23,7 @@ cat << END                                                     > $NGX_MAKEFILE
 CC =	$CC
 CFLAGS = $CFLAGS
 CPP =	$CPP
-LINK =	$LINK
+LINK =	g++
 
 END
 

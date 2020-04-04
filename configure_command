@@ -1,0 +1,1 @@
+./configure --with-pcre=/home/zhangke/pcre-8.44 --with-openssl=/home/zhangke/openssl-1.1.1d --prefix=/home/zhangke/nginx_install
